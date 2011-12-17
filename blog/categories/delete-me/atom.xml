@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Dancing Kiran]]></title>
-  <link href="http://kryali.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: delete-me | Dancing Kiran]]></title>
+  <link href="http://kryali.github.com/blog/categories/delete-me/atom.xml" rel="self"/>
   <link href="http://kryali.github.com/"/>
   <updated>2011-12-17T14:57:13-06:00</updated>
   <id>http://kryali.github.com/</id>
@@ -18,7 +18,7 @@
     <link href="http://kryali.github.com/blog/hello-world/12-17"/>
     <updated>2011-12-17T13:58:00-06:00</updated>
     <id>http://kryali.github.com/blog/hello-world/hello-world</id>
-    <content type="html"><![CDATA[<p>So, let&#8217;s see how this octopress dude works.</p>
+    <content type="html"><![CDATA[<p>So, let's see how this octopress dude works.</p>
 
 <!-- more -->
 
@@ -27,7 +27,7 @@
 
 <h1>Header 1</h1>
 
-<p>Here&#8217;s content under the header</p>
+<p>Here's content under the header</p>
 
 <h2>Header 2 - Bar</h2>
 
@@ -35,31 +35,28 @@
 
 <h3>Header 3 - Codeblock</h3>
 
-<figure class='code'><figcaption><span>somecodez  </span></figcaption>
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>somecodez  </span></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='ruby'><span class='line'>  <span class="nb">puts</span> <span class="s2">&quot;You rock&quot;</span> <span class="k">if</span> <span class="n">awesome</span>
-</span></code></pre></td></tr></table></div></figure>
-
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 
 <h4>Header 4 - Blockquote</h4>
 
-<blockquote><p>u mad bro?</p><footer><strong>Kiran Ryali, AppBible</strong> <cite><a href='http://google.com'>LOL</a></cite></footer></blockquote>
-
+<p><blockquote><p>u mad bro?</p><footer><strong>Kiran Ryali, AppBible</strong> <cite><a href='http://google.com'>LOL</a></cite></footer></blockquote></p>
 
 <h4>Pullquote</h4>
 
 <p><span class='pullquote-right' data-pullquote='surround it like this '>
 Surround your paragraph with the pull quote tags. Then when you come to
-the text you want to pull, surround it like this and that&#8217;s all there is to it.
+the text you want to pull, surround it like this and that's all there is to it.
 </span></p>
 
 <h5>Header 5 - Include code</h5>
 
-<figure class='code'><figcaption><span> (test.js)</span> <a href='http://kryali.github.com/downloads/code/test.js'>download</a></figcaption>
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span> (test.js)</span> <a href='/downloads/code/test.js'>download</a></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='js'><span class='line'><span class="kd">var</span> <span class="nx">test</span> <span class="o">=</span> <span class="nx">work</span><span class="p">;</span>
-</span></code></pre></td></tr></table></div></figure>
-
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 
 <h6>Header 6 - Image</h6>
 
@@ -67,7 +64,8 @@ the text you want to pull, surround it like this and that&#8217;s all there is t
 
 <h1>Header 1 - Partial</h1>
 
-<p>This is a partial</p>
+<p>This is a partial
+</p>
 ]]></content>
   </entry>
   
