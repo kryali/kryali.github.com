@@ -4,7 +4,7 @@
   <title><![CDATA[Dancing Kiran]]></title>
   <link href="http://kryali.github.com/atom.xml" rel="self"/>
   <link href="http://kryali.github.com/"/>
-  <updated>2011-12-17T14:57:13-06:00</updated>
+  <updated>2011-12-17T16:17:57-06:00</updated>
   <id>http://kryali.github.com/</id>
   <author>
     <name><![CDATA[Kiran Ryali]]></name>
@@ -23,7 +23,7 @@
 <!-- more -->
 
 
-<p><a href="Is%20this%20a%20link?">http://google.com</a></p>
+<p><a href="http://google.com">Is this a link?</a></p>
 
 <h1>Header 1</h1>
 
